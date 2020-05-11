@@ -1,0 +1,24 @@
+
+para resaltar una letra o codigo dentro de una etiqueta html
+<p style="color: rgb(249,130,0)"></p>
+
+para resaltar una palabra color rosado claro
+<p style="display: inline; padding: 3px 4px;color: #fd81b5;background-color: rgba(253, 129, 181, 0.1);">  </p>
+
+resaltar parrafo (rosa claro)
+<p style="background: #fcdbe6; color: #f15c8e; font-weight: bold; padding: 15px; border: 2px solid #fac9d9; border-radius: 6px;">Tu caja de color rosa y cantos redondeados</p>
+
+caja destacada
+<p style = "color: rgb(249,130,0); padding:15px 15px 20px 15px; border-left:5px solid #F98200; background:#F5F5F5; margin-bottom:30px;line-height:26px !important;">
+
+para resaltar un parrafo (verde claro)
+<p style="display: inline; background: #e2fdf4; color: #0ebd84; font-weight: bold; padding: 15px; border: 2px solid #bdfae6; border-radius: 6px;"> </p>
+
+
+
+
+
+
+
+caja de color blanco
+<p style="color: #a2a2a2; font-weight: bold; padding: 15px; border: 2px solid #d8d8d8; border-radius: 6px;">Tu caja de color blanco y cantos redondeados</p>
